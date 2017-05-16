@@ -1,6 +1,6 @@
 public class Product{
 	private String name;
-	private int price;
+	private float price;
 	
 	public Product(){
 		name = "Coca Cola";
