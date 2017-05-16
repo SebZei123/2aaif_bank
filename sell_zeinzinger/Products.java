@@ -1,5 +1,5 @@
 public class Products{
-	private HashMap array;
+	private TreeSet array;
 	
 	public Products{
 		array = array;
