@@ -1,5 +1,5 @@
 public class Products{
-	private Arraylist array;
+	private HashMap array;
 	
 	public Products{
 		array = array;
